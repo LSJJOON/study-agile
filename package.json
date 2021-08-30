@@ -1,5 +1,5 @@
 {
 	"scripts": {
-		"start": "npx @marp-team/marp-cli@latest README.md --pdf"
+		"start": "npx @marp-team/marp-cli@latest README.md --preview"
 	}
 }
